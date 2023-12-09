@@ -1,5 +1,6 @@
 # react-css-boiler-code
-`@tailwind base;
+```
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -28,4 +29,5 @@ body{
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   background-repeat: no-repeat;
-}`
+}
+```
